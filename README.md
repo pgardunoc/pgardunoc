@@ -19,7 +19,7 @@ Small, runnable examples of how I solve problems, sanitized from real work → *
 
 ## How I work
 
-TypeScript · React · Next.js · Node.js · NestJS · Java · Spring Boot · PostgreSQL · AWS · Docker
+Kotlin · Java · Spring Boot · TypeScript · React · Next.js · Node.js · NestJS · PostgreSQL · AWS · Docker
 
 AI-first development workflow — Claude Code, CLAUDE.md context engineering, LLM-assisted planning and review.
 
